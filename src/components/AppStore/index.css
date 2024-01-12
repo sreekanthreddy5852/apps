@@ -1,0 +1,31 @@
+.container {
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: black;
+  font-family: 'Bree Sherif';
+  font-size: 25px;
+}
+
+.input-details {
+  display: flex;
+}
+
+.icon {
+  height: 25px;
+  width: 30px;
+}
+
+tabs-container {
+  display: flex;
+  margin:8px;
+}
+.appItems {
+  display:flex;
+  flex-wrap:wrap;
+}
